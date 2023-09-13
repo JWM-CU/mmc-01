@@ -5,6 +5,9 @@ description: Academic webpage of Dr. Richard Feynman
 baseurl: ""
 url: ""
 
+# if I put the baseurl and url, then this build fails locally (tries to display website but everything fails)
+# But maybe if I don't have this in the static build for github, then it fails there?
+
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
 # google_analytics_4: XXX
