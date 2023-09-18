@@ -2,8 +2,8 @@
 title: Columbia Medicine Microscopy Core (MMC)
 email: WHERE__richard@university.edu
 description: Academic webpage of Dr. Richard Feynman
-baseurl: https://JWM-CU.github.io/mmc-01/
-url: '/mmc-01'
+url: "https://JWM-CU.github.io/"
+baseurl: "/mmc-01"
 
 # if I put the baseurl and url, then this build fails locally (tries to display website but everything fails)
 # But maybe if I don't have this in the static build for github, then it fails there?
