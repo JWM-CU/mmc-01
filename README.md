@@ -1,5 +1,6 @@
 # A website template for academics
 
+## This was an initial attempt to build a website, below is essentially unaltered from the forked version - JWM 2024-01-08
 ## Users
 
 Some users:
